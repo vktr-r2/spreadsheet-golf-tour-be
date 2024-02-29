@@ -8,8 +8,13 @@ Back end repo for the Spreadsheet Golf Tour app, written in Flask.  The Spreadsh
 4. Install dependencies: `pip install -r requirements.txt`
 5. Ensure your `.env` file is set up with the correct database URI
 6. Create the database tables: `python create_db.py`
-7. Run the app: `flask run`
+7. `cd` into `spreadsheet_golf_tour_be` directory 
+8. Run the app: `flask run`
 
 
 <!-- source venv/bin/activate
 flask run -->
+
+#### DEV NOTES:
+- Update dependencies: `pip freeze > requirements.txt`
+- Try next time just using `source venv/bin/activate` to continue existing env
