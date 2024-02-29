@@ -41,5 +41,5 @@ build-db:
 
 clean:
 	@echo "Tidying up..."
-	rm -rf __pycache__
-	rm -rf venv
+	find . -type d -name '__pycache__' -exec rm -rf {} +
+	find . -type d -name 'venv' -exec rm -rf {} +
