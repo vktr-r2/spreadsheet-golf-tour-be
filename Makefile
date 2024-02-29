@@ -43,7 +43,3 @@ clean:
 	@echo "Tidying up..."
 	rm -rf __pycache__
 	rm -rf venv
-
-exit:
-	@echo "Shutting down server..."
-	deactivate
