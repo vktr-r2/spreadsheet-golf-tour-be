@@ -19,3 +19,13 @@ To shut down local enviroment use `deactivate`
 
 #### DEV NOTES:
 - Update dependencies: `pip freeze > requirements.txt`
+
+- Delete existing env and start new one:
+`deactivate`
+`rm -rf /path/to/venv`
+`python -m venv /path/to/new/venv`
+`source /path/to/new/venv/bin/activate`
+`pip install -r requirements.txt`
+
+- Run pre-commit manually on all files:
+`pre-commit run --all-files`
