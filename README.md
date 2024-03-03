@@ -29,3 +29,8 @@ To shut down local enviroment use `deactivate`
 
 - Run pre-commit manually on all files:
 `make lint` OR `pre-commit run --all-files`
+
+## API NOTES
+- Use Live Golf Data API available at https://rapidapi.com/slashgolf/api/live-golf-data/
+- Free source up to 20 calls per day, 250 calls per month.
+- Examples of data structure can be seen in JSON files found in `seed_data` directory
