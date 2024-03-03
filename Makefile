@@ -38,8 +38,11 @@ build-db:
 	@python build_db.py
 
 
+lint:
+	@echo "Checking your work..."
+	@pre-commit run --all-files
+
 
 clean:
-	@echo "Tidying up..."
+	@echo "Cleaning up caches..."
 	find . -type d -name '__pycache__' -exec rm -rf {} +
-	find . -type d -name 'venv' -exec rm -rf {} +

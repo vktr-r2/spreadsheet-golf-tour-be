@@ -28,4 +28,4 @@ To shut down local enviroment use `deactivate`
 `pip install -r requirements.txt`
 
 - Run pre-commit manually on all files:
-`pre-commit run --all-files`
+`make lint` OR `pre-commit run --all-files`
