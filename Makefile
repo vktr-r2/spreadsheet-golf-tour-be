@@ -24,6 +24,7 @@ install:
 server:
 	@echo "Starting server..."
 	FLASK_APP=spreadsheet_golf_tour_be/app.py FLASK_ENV=development flask run
+	
 
 
 
@@ -33,9 +34,9 @@ test:
 
 
 
-build-db:
-	@echo "Building the database..."
-	@python build_db.py
+seed-db:
+	@echo "Seeding the database..."
+	@flask seed-db
 
 
 lint:

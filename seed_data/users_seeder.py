@@ -31,5 +31,4 @@ class UsersSeeder(Seeder):
                 updated_at=datetime.utcnow(),
             ),
         ]
-
         db.session.bulk_save_objects(users)
