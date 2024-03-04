@@ -3,7 +3,7 @@ from flask_restful import Api
 import logging
 from dotenv import load_dotenv
 import os
-from database import db, init_db
+from database import db, init_db, seed_db
 
 
 app = Flask(__name__)
@@ -22,6 +22,7 @@ app.config["SQLALCHEMY_DATABASE_URI"] = database_url
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 db.init_app(app)
 init_db(app)
+seed_db(app)
 
 api = Api(api_blueprint)
 
