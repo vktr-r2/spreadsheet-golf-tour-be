@@ -1,0 +1,1308 @@
+{
+    "_id": "62ebc37c3e0f72465a46187a",
+    "year": "2023",
+    "schedule": [
+      {
+        "tournId": "464",
+        "name": "Fortinet Championship",
+        "timeZone": "America/Los_Angeles",
+        "date": {
+          "weekNumber": "37",
+          "start": "2022-09-15T00:00:00Z",
+          "end": "2022-09-18T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "CA",
+              "city": "Napa",
+              "country": "USA"
+            },
+            "courseName": "Silverado Resort and Spa (North Course)",
+            "courseId": "552"
+          }
+        ],
+        "purse": 8000000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "500",
+        "name": "Presidents Cup",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "38",
+          "start": "2022-09-22T00:00:00Z",
+          "end": "2022-09-25T00:00:00Z"
+        },
+        "format": "team match",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "NC",
+              "city": "Charlotte",
+              "country": "USA"
+            },
+            "courseName": "Quail Hollow Club",
+            "courseId": "907"
+          }
+        ]
+      },
+      {
+        "tournId": "054",
+        "name": "Sanderson Farms Championship",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "39",
+          "start": "2022-09-29T00:00:00Z",
+          "end": "2022-10-02T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "MS",
+              "city": "Jackson",
+              "country": "USA"
+            },
+            "courseName": "The Country Club of Jackson",
+            "courseId": "746"
+          }
+        ],
+        "purse": 7900000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "047",
+        "name": "Shriners Children's Open",
+        "timeZone": "America/Los_Angeles",
+        "date": {
+          "weekNumber": "40",
+          "start": "2022-10-06T00:00:00Z",
+          "end": "2022-10-09T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "NV",
+              "city": "Las Vegas",
+              "country": "USA"
+            },
+            "courseName": "TPC Summerlin",
+            "courseId": "538"
+          }
+        ],
+        "purse": 8000000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "527",
+        "name": "ZOZO CHAMPIONSHIP",
+        "timeZone": "Asia/Tokyo",
+        "date": {
+          "weekNumber": "41",
+          "start": "2022-10-13T00:00:00Z",
+          "end": "2022-10-16T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "Chiba",
+              "country": "JPN"
+            },
+            "courseName": "Accordia Golf Narashino Country Club",
+            "courseId": "875"
+          }
+        ],
+        "purse": 11000000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "521",
+        "name": "THE CJ CUP in South Carolina",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "42",
+          "start": "2022-10-20T00:00:00Z",
+          "end": "2022-10-23T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "SC",
+              "city": "Ridgeland",
+              "country": "USA"
+            },
+            "courseName": "Congaree Golf Club",
+            "courseId": "902"
+          }
+        ],
+        "purse": 10500000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "528",
+        "name": "Butterfield Bermuda Championship",
+        "timeZone": "Atlantic/Bermuda",
+        "date": {
+          "weekNumber": "43",
+          "start": "2022-10-27T00:00:00Z",
+          "end": "2022-10-30T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "Southampton",
+              "country": "BER"
+            },
+            "courseName": "Port Royal Golf Course",
+            "courseId": "765"
+          }
+        ],
+        "purse": 6500000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "457",
+        "name": "World Wide Technology Championship at Mayakoba",
+        "timeZone": "America/Cancun",
+        "date": {
+          "weekNumber": "44",
+          "start": "2022-11-03T00:00:00Z",
+          "end": "2022-11-06T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "Riviera Maya",
+              "country": "MEX"
+            },
+            "courseName": "El Camaleón Golf Course at Mayakoba",
+            "courseId": "733"
+          }
+        ],
+        "purse": 8200000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "020",
+        "name": "Cadence Bank Houston Open",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "45",
+          "start": "2022-11-10T00:00:00Z",
+          "end": "2022-11-13T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "TX",
+              "city": "Houston",
+              "country": "USA"
+            },
+            "courseName": "Memorial Park Golf Course",
+            "courseId": "897"
+          }
+        ],
+        "purse": 8400000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "493",
+        "name": "The RSM Classic",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "46",
+          "start": "2022-11-17T00:00:00Z",
+          "end": "2022-11-20T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "GA",
+              "city": "St. Simons Island",
+              "country": "USA"
+            },
+            "courseName": "Sea Island Golf Club (Seaside Course)",
+            "courseId": "776"
+          },
+          {
+            "host": "No",
+            "location": {
+              "state": "GA",
+              "city": "St. Simons Island",
+              "country": "USA"
+            },
+            "courseName": "Sea Island Golf Club (Plantation Course)",
+            "courseId": "889"
+          }
+        ],
+        "purse": 8100000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "478",
+        "name": "Hero World Challenge",
+        "timeZone": "America/Nassau",
+        "date": {
+          "weekNumber": "48",
+          "start": "2022-12-01T00:00:00Z",
+          "end": "2022-12-04T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "New Providence",
+              "country": "BAH"
+            },
+            "courseName": "Albany",
+            "courseId": "232"
+          }
+        ],
+        "purse": 3500000
+      },
+      {
+        "tournId": "058",
+        "name": "QBE Shootout",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "49",
+          "start": "2022-12-09T00:00:00Z",
+          "end": "2022-12-11T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "FL",
+              "city": "Naples",
+              "country": "USA"
+            },
+            "courseName": "Tiburón Golf Course",
+            "courseId": "678"
+          }
+        ],
+        "purse": 3800000
+      },
+      {
+        "tournId": "016",
+        "name": "Sentry Tournament of Champions",
+        "timeZone": "Pacific/Honolulu",
+        "date": {
+          "weekNumber": "1",
+          "start": "2023-01-05T00:00:00Z",
+          "end": "2023-01-08T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "HI",
+              "city": "Kapalua, Maui",
+              "country": "USA"
+            },
+            "courseName": "Plantation Course at Kapalua",
+            "courseId": "656"
+          }
+        ],
+        "purse": 15000000,
+        "fedexCupPoints": 550
+      },
+      {
+        "tournId": "006",
+        "name": "Sony Open in Hawaii",
+        "timeZone": "Pacific/Honolulu",
+        "date": {
+          "weekNumber": "2",
+          "start": "2023-01-12T00:00:00Z",
+          "end": "2023-01-15T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "HI",
+              "city": "Honolulu",
+              "country": "USA"
+            },
+            "courseName": "Waialae Country Club",
+            "courseId": "006"
+          }
+        ],
+        "purse": 7900000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "002",
+        "name": "The American Express",
+        "timeZone": "America/Los_Angeles",
+        "date": {
+          "weekNumber": "3",
+          "start": "2023-01-19T00:00:00Z",
+          "end": "2023-01-22T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "No",
+            "location": {
+              "state": "CA",
+              "city": "La Quinta",
+              "country": "USA"
+            },
+            "courseName": "La Quinta Country Club",
+            "courseId": "202"
+          },
+          {
+            "host": "Yes",
+            "location": {
+              "state": "CA",
+              "city": "La Quinta",
+              "country": "USA"
+            },
+            "courseName": "Pete Dye Stadium Course",
+            "courseId": "704"
+          },
+          {
+            "host": "No",
+            "location": {
+              "state": "CA",
+              "city": "La Quinta",
+              "country": "USA"
+            },
+            "courseName": "Nicklaus Tournament Course",
+            "courseId": "233"
+          }
+        ],
+        "purse": 8000000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "004",
+        "name": "Farmers Insurance Open",
+        "timeZone": "America/Los_Angeles",
+        "date": {
+          "weekNumber": "4",
+          "start": "2023-01-25T00:00:00Z",
+          "end": "2023-01-28T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "CA",
+              "city": "San Diego",
+              "country": "USA"
+            },
+            "courseName": "Torrey Pines Golf Course (South Course)",
+            "courseId": "004"
+          },
+          {
+            "host": "No",
+            "location": {
+              "state": "CA",
+              "city": "San Diego",
+              "country": "USA"
+            },
+            "courseName": "Torrey Pines Golf Course (North Course)",
+            "courseId": "104"
+          }
+        ],
+        "purse": 8700000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "005",
+        "name": "AT&T Pebble Beach Pro-Am",
+        "timeZone": "America/Los_Angeles",
+        "date": {
+          "weekNumber": "5",
+          "start": "2023-02-02T00:00:00Z",
+          "end": "2023-02-05T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "CA",
+              "city": "Pebble Beach",
+              "country": "USA"
+            },
+            "courseName": "Pebble Beach Golf Links",
+            "courseId": "005"
+          },
+          {
+            "host": "No",
+            "location": {
+              "state": "CA",
+              "city": "Pebble Beach",
+              "country": "USA"
+            },
+            "courseName": "Spyglass Hill Golf Course",
+            "courseId": "205"
+          },
+          {
+            "host": "No",
+            "location": {
+              "state": "CA",
+              "city": "Pebble Beach",
+              "country": "USA"
+            },
+            "courseName": "Monterey Peninsula Country Club (Shores Course)",
+            "courseId": "769"
+          }
+        ],
+        "purse": 9000000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "003",
+        "name": "WM Phoenix Open",
+        "timeZone": "America/Phoenix",
+        "date": {
+          "weekNumber": "6",
+          "start": "2023-02-09T00:00:00Z",
+          "end": "2023-02-12T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "AZ",
+              "city": "Scottsdale",
+              "country": "USA"
+            },
+            "courseName": "TPC Scottsdale (Stadium Course)",
+            "courseId": "510"
+          }
+        ],
+        "purse": 8500000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "007",
+        "name": "The Genesis Invitational",
+        "timeZone": "America/Los_Angeles",
+        "date": {
+          "weekNumber": "7",
+          "start": "2023-02-16T00:00:00Z",
+          "end": "2023-02-19T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "CA",
+              "city": "Pacific Palisades",
+              "country": "USA"
+            },
+            "courseName": "The Riviera Country Club",
+            "courseId": "500"
+          }
+        ],
+        "purse": 20000000,
+        "fedexCupPoints": 550
+      },
+      {
+        "tournId": "010",
+        "name": "The Honda Classic",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "8",
+          "start": "2023-02-23T00:00:00Z",
+          "end": "2023-02-26T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "FL",
+              "city": "Palm Beach Gardens",
+              "country": "USA"
+            },
+            "courseName": "PGA National Resort (The Champion)",
+            "courseId": "734"
+          }
+        ],
+        "purse": 8400000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "483",
+        "name": "Puerto Rico Open",
+        "timeZone": "America/Puerto_Rico",
+        "date": {
+          "weekNumber": "9",
+          "start": "2023-03-02T00:00:00Z",
+          "end": "2023-03-05T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "Rio Grande",
+              "country": "PUR"
+            },
+            "courseName": "Grand Reserve Golf Club",
+            "courseId": "742"
+          }
+        ],
+        "purse": 3800000,
+        "fedexCupPoints": 300
+      },
+      {
+        "tournId": "009",
+        "name": "Arnold Palmer Invitational presented by Mastercard",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "9",
+          "start": "2023-03-02T00:00:00Z",
+          "end": "2023-03-05T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "FL",
+              "city": "Orlando",
+              "country": "USA"
+            },
+            "courseName": "Arnold Palmer's Bay Hill Club & Lodge",
+            "courseId": "009"
+          }
+        ],
+        "purse": 20000000,
+        "fedexCupPoints": 550
+      },
+      {
+        "tournId": "011",
+        "name": "THE PLAYERS Championship",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "10",
+          "start": "2023-03-09T00:00:00Z",
+          "end": "2023-03-12T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "FL",
+              "city": "Ponte Vedra Beach",
+              "country": "USA"
+            },
+            "courseName": "TPC Sawgrass (THE PLAYERS Stadium Course)",
+            "courseId": "011"
+          }
+        ],
+        "purse": 25000000,
+        "fedexCupPoints": 600
+      },
+      {
+        "tournId": "475",
+        "name": "Valspar Championship",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "11",
+          "start": "2023-03-16T00:00:00Z",
+          "end": "2023-03-19T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "FL",
+              "city": "Palm Harbor",
+              "country": "USA"
+            },
+            "courseName": "Innisbrook Resort (Copperhead Course)",
+            "courseId": "665"
+          }
+        ],
+        "purse": 8100000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "522",
+        "name": "Corales Puntacana Championship",
+        "timeZone": "America/Dominica",
+        "date": {
+          "weekNumber": "12",
+          "start": "2023-03-23T00:00:00Z",
+          "end": "2023-03-26T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "Punta Cana",
+              "country": "DOM"
+            },
+            "courseName": "Puntacana Resort & Club (Corales Golf Course)",
+            "courseId": "244"
+          }
+        ],
+        "purse": 3800000,
+        "fedexCupPoints": 300
+      },
+      {
+        "tournId": "470",
+        "name": "World Golf Championships-Dell Technologies Match Play",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "12",
+          "start": "2023-03-22T00:00:00Z",
+          "end": "2023-03-26T00:00:00Z"
+        },
+        "format": "match",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "TX",
+              "city": "Austin",
+              "country": "USA"
+            },
+            "courseName": "Austin Country Club",
+            "courseId": "185"
+          }
+        ],
+        "purse": 20000000,
+        "fedexCupPoints": 550
+      },
+      {
+        "tournId": "041",
+        "name": "Valero Texas Open",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "13",
+          "start": "2023-03-30T00:00:00Z",
+          "end": "2023-04-02T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "TX",
+              "city": "San Antonio",
+              "country": "USA"
+            },
+            "courseName": "TPC San Antonio (Oaks Course)",
+            "courseId": "770"
+          }
+        ],
+        "purse": 8900000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "014",
+        "name": "Masters Tournament",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "14",
+          "start": "2023-04-06T00:00:00Z",
+          "end": "2023-04-09T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "GA",
+              "city": "Augusta",
+              "country": "USA"
+            },
+            "courseName": "Augusta National Golf Club",
+            "courseId": "014"
+          }
+        ],
+        "fedexCupPoints": 600
+      },
+      {
+        "tournId": "012",
+        "name": "RBC Heritage",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "15",
+          "start": "2023-04-13T00:00:00Z",
+          "end": "2023-04-16T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "SC",
+              "city": "Hilton Head Island",
+              "country": "USA"
+            },
+            "courseName": "Harbour Town Golf Links",
+            "courseId": "012"
+          }
+        ],
+        "purse": 8300000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "018",
+        "name": "Zurich Classic of New Orleans",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "16",
+          "start": "2023-04-20T00:00:00Z",
+          "end": "2023-04-23T00:00:00Z"
+        },
+        "format": "Team",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "LA",
+              "city": "Avondale",
+              "country": "USA"
+            },
+            "courseName": "TPC Louisiana",
+            "courseId": "714"
+          }
+        ],
+        "purse": 8600000,
+        "fedexCupPoints": 400
+      },
+      {
+        "tournId": "540",
+        "name": "Mexico Open at Vidanta",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "17",
+          "start": "2023-04-27T00:00:00Z",
+          "end": "2023-04-30T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "Vallarta",
+              "country": "MEX"
+            },
+            "courseName": "Vidanta Vallarta",
+            "courseId": "978"
+          }
+        ],
+        "purse": 7700000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "480",
+        "name": "Wells Fargo Championship",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "18",
+          "start": "2023-05-04T00:00:00Z",
+          "end": "2023-05-07T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "NC",
+              "city": "Charlotte",
+              "country": "USA"
+            },
+            "courseName": "Quail Hollow Club",
+            "courseId": "872"
+          }
+        ],
+        "purse": 9300000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "019",
+        "name": "AT&T Byron Nelson",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "19",
+          "start": "2023-05-11T00:00:00Z",
+          "end": "2023-05-14T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "TX",
+              "city": "McKinney",
+              "country": "USA"
+            },
+            "courseName": "TPC Craig Ranch",
+            "courseId": "894"
+          }
+        ],
+        "purse": 9500000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "033",
+        "name": "PGA Championship",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "20",
+          "start": "2023-05-18T00:00:00Z",
+          "end": "2023-05-21T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "NY",
+              "city": "Rochester",
+              "country": "USA"
+            },
+            "courseName": "Oak HIll Country Club",
+            "courseId": "514"
+          }
+        ],
+        "fedexCupPoints": 600
+      },
+      {
+        "tournId": "021",
+        "name": "Charles Schwab Challenge",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "21",
+          "start": "2023-05-25T00:00:00Z",
+          "end": "2023-05-28T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "TX",
+              "city": "Fort Worth",
+              "country": "USA"
+            },
+            "courseName": "Colonial Country Club",
+            "courseId": "021"
+          }
+        ],
+        "purse": 8700000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "023",
+        "name": "the Memorial Tournament presented by Workday",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "22",
+          "start": "2023-06-01T00:00:00Z",
+          "end": "2023-06-04T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "OH",
+              "city": "Dublin",
+              "country": "USA"
+            },
+            "courseName": "Muirfield Village Golf Club",
+            "courseId": "023"
+          }
+        ],
+        "purse": 20000000,
+        "fedexCupPoints": 550
+      },
+      {
+        "tournId": "032",
+        "name": "RBC Canadian Open",
+        "timeZone": "America/Toronto",
+        "date": {
+          "weekNumber": "23",
+          "start": "2023-06-08T00:00:00Z",
+          "end": "2023-06-11T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "Toronto, Ontario",
+              "country": "CAN"
+            },
+            "courseName": "Oakdale Golf & Country Club",
+            "courseId": "908"
+          }
+        ],
+        "purse": 9000000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "026",
+        "name": "U.S. Open",
+        "timeZone": "America/Los_Angeles",
+        "date": {
+          "weekNumber": "24",
+          "start": "2023-06-15T00:00:00Z",
+          "end": "2023-06-18T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "CA",
+              "city": "Los Angeles",
+              "country": "USA"
+            },
+            "courseName": "The Los Angeles Country Club (North Course)",
+            "courseId": "043"
+          }
+        ],
+        "fedexCupPoints": 600
+      },
+      {
+        "tournId": "034",
+        "name": "Travelers Championship",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "25",
+          "start": "2023-06-22T00:00:00Z",
+          "end": "2023-06-25T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "CT",
+              "city": "Cromwell",
+              "country": "USA"
+            },
+            "courseName": "TPC River Highlands",
+            "courseId": "503"
+          }
+        ],
+        "purse": 8600000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "524",
+        "name": "Rocket Mortgage Classic",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "26",
+          "start": "2023-06-29T00:00:00Z",
+          "end": "2023-07-02T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "MI",
+              "city": "Detroit",
+              "country": "USA"
+            },
+            "courseName": "Detroit Golf Club",
+            "courseId": "876"
+          }
+        ],
+        "purse": 8800000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "030",
+        "name": "John Deere Classic",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "27",
+          "start": "2023-07-06T00:00:00Z",
+          "end": "2023-07-09T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "IL",
+              "city": "Silvis",
+              "country": "USA"
+            },
+            "courseName": "TPC Deere Run",
+            "courseId": "669"
+          }
+        ],
+        "purse": 7400000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "518",
+        "name": "Barbasol Championship",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "28",
+          "start": "2023-07-13T00:00:00Z",
+          "end": "2023-07-16T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "KY",
+              "city": "Nicholasville",
+              "country": "USA"
+            },
+            "courseName": "Keene Trace Golf Club (Champions Course)",
+            "courseId": "884"
+          }
+        ],
+        "purse": 3800000,
+        "fedexCupPoints": 300
+      },
+      {
+        "tournId": "541",
+        "name": "Genesis Scottish Open",
+        "timeZone": "Europe/London",
+        "date": {
+          "weekNumber": "28",
+          "start": "2023-07-13T00:00:00Z",
+          "end": "2023-07-16T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "North Berwick",
+              "country": "SCO"
+            },
+            "courseName": "The Renaissance Club",
+            "courseId": "977"
+          }
+        ],
+        "purse": 8000000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "472",
+        "name": "Barracuda Championship",
+        "timeZone": "America/Los_Angeles",
+        "date": {
+          "weekNumber": "29",
+          "start": "2023-07-20T00:00:00Z",
+          "end": "2023-07-23T00:00:00Z"
+        },
+        "format": "Stableford",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "CA",
+              "city": "Truckee",
+              "country": "USA"
+            },
+            "courseName": "Tahoe Mountain Club (Old Greenwood)",
+            "courseId": "890"
+          }
+        ],
+        "purse": 3800000,
+        "fedexCupPoints": 300
+      },
+      {
+        "tournId": "100",
+        "name": "The Open Championship",
+        "timeZone": "Europe/London",
+        "date": {
+          "weekNumber": "29",
+          "start": "2023-07-20T00:00:00Z",
+          "end": "2023-07-23T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "",
+              "city": "Hoylake, Wirral",
+              "country": "ENG"
+            },
+            "courseName": "Royal Liverpool",
+            "courseId": "724"
+          }
+        ],
+        "fedexCupPoints": 600
+      },
+      {
+        "tournId": "525",
+        "name": "3M Open",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "30",
+          "start": "2023-07-27T00:00:00Z",
+          "end": "2023-07-30T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "MN",
+              "city": "Blaine",
+              "country": "USA"
+            },
+            "courseName": "TPC Twin Cities",
+            "courseId": "883"
+          }
+        ],
+        "purse": 7800000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "013",
+        "name": "Wyndham Championship",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "31",
+          "start": "2023-08-03T00:00:00Z",
+          "end": "2023-08-06T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "NC",
+              "city": "Greensboro",
+              "country": "USA"
+            },
+            "courseName": "Sedgefield Country Club",
+            "courseId": "752"
+          }
+        ],
+        "purse": 7600000,
+        "fedexCupPoints": 500
+      },
+      {
+        "tournId": "027",
+        "name": "FedEx St. Jude Championship",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "32",
+          "start": "2023-08-10T00:00:00Z",
+          "end": "2023-08-13T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "TN",
+              "city": "Memphis",
+              "country": "USA"
+            },
+            "courseName": "TPC Southwind",
+            "courseId": "513"
+          }
+        ],
+        "purse": 20000000,
+        "fedexCupPoints": 2000
+      },
+      {
+        "tournId": "028",
+        "name": "BMW Championship",
+        "timeZone": "America/Chicago",
+        "date": {
+          "weekNumber": "33",
+          "start": "2023-08-17T00:00:00Z",
+          "end": "2023-08-20T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "IL",
+              "city": "Olympia Fields",
+              "country": "USA"
+            },
+            "courseName": "Olympia Fields Country Club (North Course)",
+            "courseId": "896"
+          }
+        ],
+        "purse": 20000000,
+        "fedexCupPoints": 2000
+      },
+      {
+        "tournId": "060",
+        "name": "TOUR Championship",
+        "timeZone": "America/New_York",
+        "date": {
+          "weekNumber": "34",
+          "start": "2023-08-24T00:00:00Z",
+          "end": "2023-08-27T00:00:00Z"
+        },
+        "format": "stroke",
+        "courses": [
+          {
+            "host": "Yes",
+            "location": {
+              "state": "GA",
+              "city": "Atlanta",
+              "country": "USA"
+            },
+            "courseName": "East Lake Golf Club",
+            "courseId": "688"
+          }
+        ]
+      }
+    ],
+    "timestamp": "2022-08-29T08:35:54.515Z",
+    "orgId": "1"
+  }
