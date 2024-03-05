@@ -32,11 +32,15 @@ test:
 	@echo "Starting tester..."
 	pytest tests/
 
+# DB Related Make Commands
+create-db:
+	@echo "Creating the database..."
+	mysql -u root -p -e "CREATE DATABASE IF NOT EXISTS sgt_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;"
 
+drop-db:
+	@echo "Dropping the database..."
+	mysql -u root -p -e "DROP DATABASE IF EXISTS sgt_db;"
 
-seed-db:
-	@echo "Seeding the database..."
-	@flask seed-db
 
 
 lint:
