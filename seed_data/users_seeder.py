@@ -31,5 +31,25 @@ class UsersSeeder(Seeder):
                     created_at=datetime.utcnow(),
                     updated_at=datetime.utcnow(),
                 ),
+                Users(
+                    uuid=uuid4(),
+                    email="user3@example.com",
+                    username="user3",
+                    password="pw123",
+                    f_name="Greg",
+                    l_name="Norman",
+                    created_at=datetime.utcnow(),
+                    updated_at=datetime.utcnow(),
+                ),
+                Users(
+                    uuid=uuid4(),
+                    email="user4@example.com",
+                    username="user4",
+                    password="pw123",
+                    f_name="Jane",
+                    l_name="Park",
+                    created_at=datetime.utcnow(),
+                    updated_at=datetime.utcnow(),
+                ),
             ]
             db.session.bulk_save_objects(users)

@@ -35,7 +35,7 @@ test:
 # DB Related Make Commands
 create-db:
 	@echo "Creating the database..."
-	mysql -u root -p -e "CREATE DATABASE IF NOT EXISTS sgt_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;"
+	mysql -u root -p -e "CREATE DATABASE IF NOT EXISTS sgt_db;"
 
 drop-db:
 	@echo "Dropping the database..."

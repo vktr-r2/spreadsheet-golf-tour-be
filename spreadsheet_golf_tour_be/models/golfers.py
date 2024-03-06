@@ -7,7 +7,7 @@ class Golfers(db.Model):
     __tablename__ = "golfers"
 
     id = Column(BigInteger, primary_key=True, autoincrement=True)
-    source_id = Column(BigInteger)
+    source_id = Column(String(10), nullable=False)
     f_name = Column(String(16), nullable=False)
     l_name = Column(String(16), nullable=False)
     created_at = Column(DateTime(), nullable=False, default=datetime.utcnow)
