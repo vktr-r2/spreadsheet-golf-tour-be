@@ -24,6 +24,7 @@ install:
 server:
 	@echo "Starting server..."
 	FLASK_APP=spreadsheet_golf_tour_be/app.py FLASK_ENV=development flask run
+	
 
 
 
@@ -31,11 +32,15 @@ test:
 	@echo "Starting tester..."
 	pytest tests/
 
+# DB Related Make Commands
+create-db:
+	@echo "Creating the database..."
+	mysql -u root -p -e "CREATE DATABASE IF NOT EXISTS sgt_db;"
 
+drop-db:
+	@echo "Dropping the database..."
+	mysql -u root -p -e "DROP DATABASE IF EXISTS sgt_db;"
 
-build-db:
-	@echo "Building the database..."
-	@python build_db.py
 
 
 lint:
