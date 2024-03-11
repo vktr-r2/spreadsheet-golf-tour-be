@@ -30,12 +30,16 @@ api = Api(api_blueprint)
 def make_api():
     from spreadsheet_golf_tour_be.resources.home import HomeResource
     from spreadsheet_golf_tour_be.resources.login import LoginResource
+    from spreadsheet_golf_tour_be.resources.tournaments import TournamentsResource
 
     # Home
     api.add_resource(HomeResource, "/")
 
     # Login
     api.add_resource(LoginResource, "/login")
+
+    # Tournaments
+    api.add_resource(TournamentsResource, "/api/tournaments")
 
     return api
 
