@@ -2,11 +2,12 @@ from datetime import datetime
 import requests
 from requests.exceptions import HTTPError, ConnectionError, Timeout, RequestException
 import os
+from typing import Optional, Dict, Any
 
 
 class RapidApiWrapperService:
 
-    def __init__(self):
+    def __init__(self) -> None:
         self.rapid_api_key = os.environ.get("RAPID_API_KEY")
         self.base_url = "https://live-golf-data.p.rapidapi.com/"
         self.headers = {
@@ -14,12 +15,14 @@ class RapidApiWrapperService:
             "X-RapidAPI-Host": "live-golf-data.p.rapidapi.com",
         }
 
-    def call_schedule_endpoint(self, org_id):
+    def call_schedule_endpoint(self, org_id: str) -> Optional[Dict[str, Any]]:
         current_year = str(datetime.now().year)
         query_string = {"orgID": org_id, "year": current_year}
         return self.make_request("schedule", params=query_string)
 
-    def make_request(self, url_path, params=None):
+    def make_request(
+        self, url_path: str, params: Optional[Dict[str, str]] = None
+    ) -> Optional[Dict[str, Any]]:
         full_url = f"{self.base_url}{url_path}"
 
         try:
