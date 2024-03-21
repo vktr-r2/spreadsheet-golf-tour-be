@@ -7,26 +7,22 @@ setup: create-env activate-env
 
 create-env:
 	@echo "Creating virtual environment..."
-	python3 -m venv venv
+	python3 -m poetry install
 
 activate-env:
 	@echo "Almost there..."
-	@echo "You need to activate the virtual environment manually by running 'source venv/bin/activate'"
-
+	@echo "You need to activate the virtual environment manually by running 'python -m poetry shell'"
 
 
 install:
 	@echo "Installing dependencies..."
-	pip install -r requirements.txt
-
+	python -m poetry install
 
 
 server:
 	@echo "Starting server..."
 	FLASK_APP=spreadsheet_golf_tour_be/app.py FLASK_ENV=development flask run
 	
-
-
 
 test:
 	@echo "Starting tester..."
