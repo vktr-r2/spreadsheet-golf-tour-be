@@ -1,9 +1,0 @@
-[flake8]
-extend-ignore = E203, E266, W503, W504
-exclude =
-    .git,
-    __pycache__,
-    venv,
-    .venv
-max-complexity = 10
-max-line-length = 100
